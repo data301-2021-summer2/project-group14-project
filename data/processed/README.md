@@ -1,1 +1,1 @@
-raw data where original data files are.
+Processed/cleaned up data files are in here.
