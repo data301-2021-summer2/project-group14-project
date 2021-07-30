@@ -1,8 +1,7 @@
 import seaborn as sns
 import pandas as pd
-path = 'data/raw/waterpotability.csv'
 
-def load_process(path):
+def load_and_process(path):
     df = (
         pd.read_csv(path)
         .rename(columns={'ph': 'pH',
