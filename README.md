@@ -1,4 +1,4 @@
-# Group 14 - {Potability of Drinking Water}
+# Group 14 - Potability of Drinking Water
 
 - Your title can change over time.
 
