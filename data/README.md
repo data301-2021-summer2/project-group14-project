@@ -1,1 +1,1 @@
-# data files that are split into raw and processed data files
+data files/datasets that are split into processed (cleaned) data and raw data.
